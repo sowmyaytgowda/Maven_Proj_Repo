@@ -8,5 +8,7 @@ public class AddClass {
 public void pushTogithub()
 {
 	Reporter.log("pushing this class to github");
+		Reporter.log("pushing this class to github");
+
 }
 }
