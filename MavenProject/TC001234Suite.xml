@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="electronics.TC_003_TEST"/>
+      <class name="books.TC_001_TEST"/>
+      <class name="computers.TC_002_TEST"/>
+      <class name="giftCards.TC_004_TEST"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
